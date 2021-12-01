@@ -1,3 +1,3 @@
-# Sorting-Algorithms
+# Sorting Algorithms
 
-Python implementations of some of the most popular soring algorithms.
+Python implementations of some of the most popular sorting algorithms.
