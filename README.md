@@ -1,6 +1,3 @@
-# Merge sort
+# Sorting-Algorithms
 
-Python implementation of the classic sorting algorithm.# Sorting-Algorithms
-# Sorting-Algorithms
-# Sorting-Algorithms
-# Sorting-Algorithms
+Python implementations of some of the most popular soring algorithms.
